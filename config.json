@@ -1,0 +1,6 @@
+{
+    "listeners": [
+        {"iface": "127.0.0.1", "port": 8080}
+    ],
+    "proxy": {"use_proxy": false, "host": "", "port": 0, "is_socks": false}
+}
